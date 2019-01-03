@@ -1,0 +1,15 @@
+{
+  "name": "diy-state-mgmt",
+  "version": "1.0.0",
+  "description": "Homemade state management using JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "ERik",
+    "Kimsey"
+  ],
+  "author": "Erik Kimsey",
+  "license": "ISC"
+}
